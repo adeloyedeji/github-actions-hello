@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-hello",
+  "version": "1.0.0",
+  "description": "Testing Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeloyedeji/github-actions-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeloyedeji/github-actions-hello/issues"
+  },
+  "homepage": "https://github.com/adeloyedeji/github-actions-hello#readme",
+  "dependencies": {
+    "@actions/core": "^1.1.0",
+    "@actions/github": "^1.1.0"
+  }
+}
